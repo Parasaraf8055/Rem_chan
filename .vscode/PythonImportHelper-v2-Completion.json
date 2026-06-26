@@ -1,0 +1,664 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "load_settings",
+        "importPath": "core.config_manager",
+        "description": "core.config_manager",
+        "isExtraImport": true,
+        "detail": "core.config_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryManager",
+        "importPath": "core.memory_manager",
+        "description": "core.memory_manager",
+        "isExtraImport": true,
+        "detail": "core.memory_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryExtractor",
+        "importPath": "core.memory_extractor",
+        "description": "core.memory_extractor",
+        "isExtraImport": true,
+        "detail": "core.memory_extractor",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileManager",
+        "importPath": "core.profile_manager",
+        "description": "core.profile_manager",
+        "isExtraImport": true,
+        "detail": "core.profile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationManager",
+        "importPath": "core.conversation_manager",
+        "description": "core.conversation_manager",
+        "isExtraImport": true,
+        "detail": "core.conversation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "PromptBuilder",
+        "importPath": "core.prompt_builder",
+        "description": "core.prompt_builder",
+        "isExtraImport": true,
+        "detail": "core.prompt_builder",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSystemTrayIcon",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "REM_RESPONSES",
+        "importPath": "core.personality",
+        "description": "core.personality",
+        "isExtraImport": true,
+        "detail": "core.personality",
+        "documentation": {}
+    },
+    {
+        "label": "RemBrain",
+        "importPath": "modules.ai.llm",
+        "description": "modules.ai.llm",
+        "isExtraImport": true,
+        "detail": "modules.ai.llm",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QAction",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QTimer",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QTimer",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "AnimationManager",
+        "importPath": "core.animation_manager",
+        "description": "core.animation_manager",
+        "isExtraImport": true,
+        "detail": "core.animation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MovementManager",
+        "importPath": "core.movement_manager",
+        "description": "core.movement_manager",
+        "isExtraImport": true,
+        "detail": "core.movement_manager",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechBubble",
+        "importPath": "ui.speech_bubble",
+        "description": "ui.speech_bubble",
+        "isExtraImport": true,
+        "detail": "ui.speech_bubble",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGES",
+        "importPath": "core.personality_messages",
+        "description": "core.personality_messages",
+        "isExtraImport": true,
+        "detail": "core.personality_messages",
+        "documentation": {}
+    },
+    {
+        "label": "FriendshipManager",
+        "importPath": "core.friendship_manager",
+        "description": "core.friendship_manager",
+        "isExtraImport": true,
+        "detail": "core.friendship_manager",
+        "documentation": {}
+    },
+    {
+        "label": "PET_MESSAGES",
+        "importPath": "core.petting_messages",
+        "description": "core.petting_messages",
+        "isExtraImport": true,
+        "detail": "core.petting_messages",
+        "documentation": {}
+    },
+    {
+        "label": "ReminderPopup",
+        "importPath": "ui.reminder_popup",
+        "description": "ui.reminder_popup",
+        "isExtraImport": true,
+        "detail": "ui.reminder_popup",
+        "documentation": {}
+    },
+    {
+        "label": "RemTrayIcon",
+        "importPath": "ui.tray_icon",
+        "description": "ui.tray_icon",
+        "isExtraImport": true,
+        "detail": "ui.tray_icon",
+        "documentation": {}
+    },
+    {
+        "label": "WATER_MESSAGES",
+        "importPath": "modules.reminders.water",
+        "description": "modules.reminders.water",
+        "isExtraImport": true,
+        "detail": "modules.reminders.water",
+        "documentation": {}
+    },
+    {
+        "label": "BREAK_MESSAGES",
+        "importPath": "modules.reminders.breaks",
+        "description": "modules.reminders.breaks",
+        "isExtraImport": true,
+        "detail": "modules.reminders.breaks",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsWindow",
+        "importPath": "ui.settings_window",
+        "description": "ui.settings_window",
+        "isExtraImport": true,
+        "detail": "ui.settings_window",
+        "documentation": {}
+    },
+    {
+        "label": "ChatWindow",
+        "importPath": "ui.chat_window",
+        "description": "ui.chat_window",
+        "isExtraImport": true,
+        "detail": "ui.chat_window",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "RemWindow",
+        "importPath": "ui.main_window",
+        "description": "ui.main_window",
+        "isExtraImport": true,
+        "detail": "ui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "AnimationManager",
+        "kind": 6,
+        "importPath": "core.animation_manager",
+        "description": "core.animation_manager",
+        "peekOfCode": "class AnimationManager:\n    def __init__(self):\n        self.animations = {\n            \"idle\": self.load_frames(\n                \"assets/images/rem_idle\"\n            ),\n            \"walk\": self.load_frames(\n                \"assets/images/rem_walk\"\n            )\n        }",
+        "detail": "core.animation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "load_settings",
+        "kind": 2,
+        "importPath": "core.config_manager",
+        "description": "core.config_manager",
+        "peekOfCode": "def load_settings():\n    with open(\n        \"config/settings.json\",\n        \"r\"\n    ) as file:\n        settings = json.load(file)\n    settings[\"gemini_api_key\"] = os.getenv(\n        \"GEMINI_API_KEY\"\n    )\n    return settings",
+        "detail": "core.config_manager",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationManager",
+        "kind": 6,
+        "importPath": "core.conversation_manager",
+        "description": "core.conversation_manager",
+        "peekOfCode": "class ConversationManager:\n    def __init__(self):\n        self.file_path = (\n            \"data/conversation_history.json\"\n        )\n        self.load()\n    def load(self):\n        if not os.path.exists(\n            self.file_path\n        ):",
+        "detail": "core.conversation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "FriendshipManager",
+        "kind": 6,
+        "importPath": "core.friendship_manager",
+        "description": "core.friendship_manager",
+        "peekOfCode": "class FriendshipManager:\n    def __init__(self):\n        self.friendship = 0\n    def increase(self, amount=1):\n        self.friendship += amount\n        print(\n            f\"💙 Friendship Level: {self.friendship}\"\n    )",
+        "detail": "core.friendship_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryExtractor",
+        "kind": 6,
+        "importPath": "core.memory_extractor",
+        "description": "core.memory_extractor",
+        "peekOfCode": "class MemoryExtractor:\n    def extract(self, message):\n        memories = {}\n        msg = message.lower()\n        # -------------------\n        # Name Detection\n        # -------------------\n        name_patterns = [\n            r\"my name is (.+)\",\n            r\"i am (.+)\",",
+        "detail": "core.memory_extractor",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryManager",
+        "kind": 6,
+        "importPath": "core.memory_manager",
+        "description": "core.memory_manager",
+        "peekOfCode": "class MemoryManager:\n    def __init__(self):\n        self.memory_file = (\n            \"data/memories.json\"\n        )\n        self.load_memory()\n    def load_memory(self):\n        if not os.path.exists(\n            self.memory_file\n        ):",
+        "detail": "core.memory_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MoodManager",
+        "kind": 6,
+        "importPath": "core.mood_manager",
+        "description": "core.mood_manager",
+        "peekOfCode": "class MoodManager:\n    def __init__(self):\n        self.mood = \"happy\"\n    def set_mood(\n        self,\n        mood\n    ):\n        self.mood = mood\n    def get_mood(self):\n        return self.mood",
+        "detail": "core.mood_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MovementManager",
+        "kind": 6,
+        "importPath": "core.movement_manager",
+        "description": "core.movement_manager",
+        "peekOfCode": "class MovementManager:\n    def get_random_direction(self):\n        return random.choice(\n            [\n                -1,\n                1\n            ]\n        )",
+        "detail": "core.movement_manager",
+        "documentation": {}
+    },
+    {
+        "label": "REM_RESPONSES",
+        "kind": 5,
+        "importPath": "core.personality",
+        "description": "core.personality",
+        "peekOfCode": "REM_RESPONSES = {\n    \"hello\":\n        \"Hello Master. 💙\",\n    \"hi\":\n        \"Hello Master. 💙\",\n    \"how are you\":\n        \"I'm doing well, Master. How are you?\",\n    \"good morning\":\n        \"Good morning Master. I hope you have a productive day. 💙\",\n    \"good night\":",
+        "detail": "core.personality",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGES",
+        "kind": 5,
+        "importPath": "core.personality_messages",
+        "description": "core.personality_messages",
+        "peekOfCode": "MESSAGES = [\n    \"Master?\",\n    \"Working hard today?\",\n    \"Remember to drink water.\",\n    \"Don't forget to take breaks.\",\n    \"I'm cheering for you.\",\n    \"Good luck today.\",\n    \"How can I help?\",\n    \"Take care of yourself.\",\n]",
+        "detail": "core.personality_messages",
+        "documentation": {}
+    },
+    {
+        "label": "PET_MESSAGES",
+        "kind": 5,
+        "importPath": "core.petting_messages",
+        "description": "core.petting_messages",
+        "peekOfCode": "PET_MESSAGES = [\n    \"Hehe~ 💙\",\n    \"Master?\",\n    \"That tickles.\",\n    \"I'm glad you're here.\",\n    \"Working hard today?\",\n    \"You seem busy.\",\n    \"Take care of yourself.\",\n    \"I'm cheering for you.\",\n]",
+        "detail": "core.petting_messages",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileManager",
+        "kind": 6,
+        "importPath": "core.profile_manager",
+        "description": "core.profile_manager",
+        "peekOfCode": "class ProfileManager:\n    def __init__(self):\n        self.file = \"data/memories.json\"\n        with open(\n            self.file,\n            \"r\"\n        ) as f:\n            self.profile = json.load(f)\n    def save(self):\n        with open(",
+        "detail": "core.profile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "PromptBuilder",
+        "kind": 6,
+        "importPath": "core.prompt_builder",
+        "description": "core.prompt_builder",
+        "peekOfCode": "class PromptBuilder:\n    def build(\n        self,\n        user_message,\n        profile,\n        conversation_context\n    ):\n        prompt = f\"\"\"\n    You are Rem-Chan from Re:Zero.\n    You are a caring maid and desktop companion.",
+        "detail": "core.prompt_builder",
+        "documentation": {}
+    },
+    {
+        "label": "RemBrain",
+        "kind": 6,
+        "importPath": "modules.ai.llm",
+        "description": "modules.ai.llm",
+        "peekOfCode": "class RemBrain:\n    def __init__(self):\n        settings = load_settings()\n        genai.configure(\n            api_key=settings[\"gemini_api_key\"]\n        )\n        self.memory = (\n            MemoryManager()\n        )\n        self.prompt_builder = (",
+        "detail": "modules.ai.llm",
+        "documentation": {}
+    },
+    {
+        "label": "BREAK_MESSAGES",
+        "kind": 5,
+        "importPath": "modules.reminders.breaks",
+        "description": "modules.reminders.breaks",
+        "peekOfCode": "BREAK_MESSAGES = [\n    \"Master, let's take a short break.\",\n    \"A few minutes of rest would help.\",\n    \"Please stretch a little.\"\n]",
+        "detail": "modules.reminders.breaks",
+        "documentation": {}
+    },
+    {
+        "label": "WATER_MESSAGES",
+        "kind": 5,
+        "importPath": "modules.reminders.water",
+        "description": "modules.reminders.water",
+        "peekOfCode": "WATER_MESSAGES = [\n    \"Master, please drink some water. 💧\",\n    \"Hydration is important. 💙\",\n    \"You have been working for a while.\"\n]",
+        "detail": "modules.reminders.water",
+        "documentation": {}
+    },
+    {
+        "label": "ChatWindow",
+        "kind": 6,
+        "importPath": "ui.chat_window",
+        "description": "ui.chat_window",
+        "peekOfCode": "class ChatWindow(QWidget):\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\n            \"Rem-Chan 💙\"\n        )\n        self.resize(\n            500,\n            600\n        )",
+        "detail": "ui.chat_window",
+        "documentation": {}
+    },
+    {
+        "label": "RemWindow",
+        "kind": 6,
+        "importPath": "ui.main_window",
+        "description": "ui.main_window",
+        "peekOfCode": "class RemWindow(QLabel):\n    def __init__(self):\n        super().__init__()\n        # Window Settings\n        self.setWindowFlags(\n            Qt.WindowType.FramelessWindowHint\n            | Qt.WindowType.WindowStaysOnTopHint\n            | Qt.WindowType.Tool\n        )\n        self.setAttribute(",
+        "detail": "ui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "ReminderPopup",
+        "kind": 6,
+        "importPath": "ui.reminder_popup",
+        "description": "ui.reminder_popup",
+        "peekOfCode": "class ReminderPopup(QWidget):\n    def __init__(self, message):\n        super().__init__()\n        self.setWindowFlags(\n            Qt.WindowType.Tool\n            | Qt.WindowType.WindowStaysOnTopHint\n        )\n        self.setWindowTitle(\"Rem-Chan\")\n        layout = QVBoxLayout()\n        label = QLabel(message)",
+        "detail": "ui.reminder_popup",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsWindow",
+        "kind": 6,
+        "importPath": "ui.settings_window",
+        "description": "ui.settings_window",
+        "peekOfCode": "class SettingsWindow(QWidget):\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\n            \"Rem Settings\"\n        )\n        layout = QVBoxLayout()\n        layout.addWidget(\n            QLabel(\n                \"Settings Coming Soon 💙\"",
+        "detail": "ui.settings_window",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechBubble",
+        "kind": 6,
+        "importPath": "ui.speech_bubble",
+        "description": "ui.speech_bubble",
+        "peekOfCode": "class SpeechBubble(QLabel):\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self.setAttribute(\n            Qt.WidgetAttribute.WA_TransparentForMouseEvents\n        )\n        self.setWindowFlags(\n            Qt.WindowType.FramelessWindowHint\n            | Qt.WindowType.ToolTip\n        )",
+        "detail": "ui.speech_bubble",
+        "documentation": {}
+    },
+    {
+        "label": "RemTrayIcon",
+        "kind": 6,
+        "importPath": "ui.tray_icon",
+        "description": "ui.tray_icon",
+        "peekOfCode": "class RemTrayIcon(QSystemTrayIcon):\n    def __init__(self, parent):\n        super().__init__(parent)\n        self.parent_window = parent\n        self.settings_window = (\n            SettingsWindow()\n        )\n        self.chat_window = ChatWindow()\n        self.setIcon(\n            QIcon(",
+        "detail": "ui.tray_icon",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = QApplication(sys.argv)\nwindow = RemWindow()\nwindow.show()\nsys.exit(app.exec())",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "window = RemWindow()\nwindow.show()\nsys.exit(app.exec())",
+        "detail": "main",
+        "documentation": {}
+    }
+]
